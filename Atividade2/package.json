@@ -1,0 +1,16 @@
+{
+  "name": "atv-2-caio-alessandro-brito-de-assis",
+  "version": "1.0.0",
+  "description": "Atividade salario Caio Alessandro Brito de Assis",
+  "main": "index.js",
+  "dependencies": {
+    "ansi-regex": "^4.1.1",
+    "prompt-sync": "^4.2.0",
+    "strip-ansi": "^5.2.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Caio Alessandro Brito de Assis",
+  "license": "ISC"
+}
